@@ -1,0 +1,5 @@
+{
+    "infoPath": ".\\crawled",
+    "indexPath": ".\\indices",
+    "maxListPage": 20
+}
