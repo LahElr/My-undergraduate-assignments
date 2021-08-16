@@ -5,3 +5,5 @@ This is a C++ project and depends on EasyX graphic libaray. Please refer to Easy
 This project has been tested on MSVC in Windows system.
 
 There are 3 music called a.mp3, b.mp3 and c.mp3, they're not here due to copyright stuff, if you want to compile and use this project, you can use your own.
+
+NOTE: The icon is drawn by my friend, and is not allowed for any kind of reposting.
