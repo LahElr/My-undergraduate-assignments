@@ -1,0 +1,11 @@
+go n
+go n
+go e
+go e
+go s
+go u
+go s
+go e
+go n
+go u
+go w
