@@ -1,6 +1,6 @@
-# My-assignments
+# My-undergraduate-assignments
 
-Summary of all my assignments undergraduate stage
+Summary of all my assignments at undergraduate stage
 
 This is a summary repo to make my repo page tidier and I will transfer all other assignment repos to this repo.
 
